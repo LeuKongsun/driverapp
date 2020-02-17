@@ -1,0 +1,121 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "title": "Nana Onlineshop",
+      "phone": "070672757",
+      "address": "#34, St 261, SR",
+      "pin": "វត្តភ្នំ",
+      "item": "10",
+      "day": "Today",
+      "startTime": "08:30",
+      "endTime": "09:30"
+    },
+    {
+      "id": "2",
+      "title": "JellyJelly",
+      "phone": "012578097",
+      "address": "#34, St 261, SR",
+      "pin": "វត្តភ្នំ",
+      "item": "5",
+      "day": "Today",
+      "startTime": "10:30",
+      "endTime": "11:30"
+    },
+    {
+      "id": "3",
+      "title": "Apple Blossoms",
+      "phone": "010880880",
+      "address": "#34, St 261, SR",
+      "pin": "វត្តភ្នំ",
+      "item": "3",
+      "day": "Today",
+      "startTime": "12:30",
+      "endTime": "01:30"
+    },
+    {
+      "id": "4",
+      "title": "Classy Missy",
+      "phone": "089667990",
+      "address": "#34, St 261, SR",
+      "pin": "វត្តភ្នំ",
+      "item": "8",
+      "day": "Today",
+      "startTime": "02:30",
+      "endTime": "03:30"
+    },
+    {
+      "id": "5",
+      "title": "Beauty Store",
+      "phone": "010989676",
+      "address": "#34, St 261, SR",
+      "pin": "វត្តភ្នំ",
+      "item": "2",
+      "day": "Today",
+      "startTime": "04:30",
+      "endTime": "05:30"
+    }
+  ],
+  "delivery": [
+    {
+      "id": "1",
+      "title": "Nana Onlineshop",
+      "code": "000083732",
+      "phone": "070 222 333",
+      "address": "#34, St 261, PP",
+      "location": "វត្តភ្នំ",
+      "price": "$23.5",
+      "label": "Today",
+      "start": "08:00",
+      "end": "09:00"
+    },
+    {
+      "id": "2",
+      "title": "Jelly Bunny",
+      "code": "000083733",
+      "phone": "012 333 444",
+      "address": "#35, St 265, PP",
+      "location": "Wattanak Capital",
+      "price": "$28.5",
+      "label": "Today",
+      "start": "08:30",
+      "end": "09:30"
+    },
+    {
+      "id": "3",
+      "title": "ZANDO",
+      "code": "000083734",
+      "phone": "013 444 555",
+      "address": "#33, St 200, PP",
+      "location": "IFL",
+      "price": "$20",
+      "label": "Today",
+      "start": "09:00",
+      "end": "09:30"
+    },
+    {
+      "id": "4",
+      "title": "Monument Bookstore",
+      "code": "000083735",
+      "phone": "014 555 666",
+      "address": "#33, St 300, PP",
+      "location": "Toul Kork",
+      "price": "$15.3",
+      "label": "Today",
+      "start": "10:00",
+      "end": "10:30"
+    },
+    {
+      "id": "5",
+      "title": "Beauty Store",
+      "code": "000083736",
+      "phone": "015 666 777",
+      "address": "#34, St 305, PP",
+      "location": "Toul Kork",
+      "price": "$18.3",
+      "label": "Today",
+      "start": "04:00",
+      "end": "05:30"
+    }
+  ]
+}
